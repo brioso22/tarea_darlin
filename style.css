@@ -1,0 +1,17 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background: #aaa;
+    margin-bottom: 20px;
+    display: inline-block;
+
+} 
+
+.box {
+    width: 150px;
+    height: 40px;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
